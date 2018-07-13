@@ -1,0 +1,11 @@
+.background {
+    -fx-background-color: gray;
+}
+
+.buttonStart {
+    -fx-background-color: rgba(87,176,255,0.42);
+}
+
+.buttonStart:hover {
+    -fx-background-color: rgba(27, 95, 190, 0.42);
+}
